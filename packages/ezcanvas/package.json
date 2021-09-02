@@ -1,0 +1,13 @@
+{
+  "name": "ezcanvas",
+  "version": "1.0.0",
+  "description": "",
+  "module": "src/api.ts",
+  "main": "src/api.ts",
+  "types": "types/api.d.ts",
+  "scripts": {
+    "dev": "tsc -w"
+  },
+  "author": "",
+  "license": "ISC"
+}

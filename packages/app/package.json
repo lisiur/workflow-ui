@@ -1,0 +1,14 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "dev": "webpack serve"
+  },
+  "dependencies": {
+    "workflow": "workspace:*"
+  },
+  "author": "",
+  "license": "ISC"
+}
